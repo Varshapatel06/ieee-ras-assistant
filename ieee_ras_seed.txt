@@ -1,0 +1,54 @@
+SOURCE: https://www.ieee-ras.org/
+TITLE: IEEE Robotics and Automation Society - Overview
+
+The IEEE Robotics and Automation Society (IEEE RAS) is a professional society of the
+IEEE that supports the development and exchange of scientific knowledge in the fields
+of robotics and automation, covering both applied and theoretical issues.
+
+The organisation began as the IEEE Robotics and Automation Council, founded in 1984 by
+a group of IEEE Societies including Aerospace and Electronic Systems; Circuits and
+Systems; Components, Hybrids and Manufacturing Technology; Computers; Control Systems;
+Industrial Electronics; Industry Applications; and Systems, Man and Cybernetics. The
+Council became the IEEE Robotics and Automation Society in 1987.
+
+The Society's constitution states that it is interested in both applied and theoretical
+issues in robotics and automation. Robotics is defined to include intelligent machines
+and systems used, for example, in space exploration, human services, or manufacturing.
+Automation includes the use of automated methods in applications such as factory,
+office, home, or transportation systems to improve performance and productivity.
+
+The Society's objectives are scientific, literary and educational in character. It works
+for the advancement of the theory and practice of robotics and automation engineering
+and science and of the allied arts and sciences, and for the maintenance of high
+professional standards among its members.
+
+SOURCE: https://www.ieee-ras.org/publications
+TITLE: IEEE RAS Publications
+
+IEEE RAS publishes a range of peer-reviewed journals, including IEEE Transactions on
+Robotics, IEEE Transactions on Automation Science and Engineering, IEEE Robotics and
+Automation Letters, and IEEE Robotics and Automation Magazine.
+
+SOURCE: https://www.ieee-ras.org/conferences-workshops
+TITLE: IEEE RAS Conferences
+
+IEEE RAS sponsors and co-sponsors a large number of conferences and workshops each year.
+Its flagship conferences include the IEEE International Conference on Robotics and
+Automation (ICRA) and the IEEE/RSJ International Conference on Intelligent Robots and
+Systems (IROS).
+
+SOURCE: https://www.ieee-ras.org/technical-committees
+TITLE: IEEE RAS Technical Committees
+
+Technical Committees are expert groups that develop and support specialised fields of
+robotics within the larger Society. RAS maintains dozens of Technical Committees
+covering distinct research areas in robotics and automation.
+
+SOURCE: https://www.ieee-ras.org/
+TITLE: IEEE RAS Mission and Values
+
+IEEE RAS supports the development of robotics and automation technology for peaceful
+civilian use and ecological sustainability. The Society describes itself as committed to
+reducing global imbalances by offering free education and ensuring equal opportunities
+for publishing and promoting scientific work. RAS supports student and professional
+chapters that connect members on campuses and across regions.

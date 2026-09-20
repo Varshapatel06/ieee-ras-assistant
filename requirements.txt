@@ -1,0 +1,9 @@
+streamlit>=1.39
+faiss-cpu>=1.12
+sentence-transformers>=3.0
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.0
+python-dotenv>=1.0
+numpy>=1.26
+scikit-learn>=1.5
